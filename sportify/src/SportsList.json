@@ -1,0 +1,7 @@
+[
+    {"sports_name":"Football", "sports_id":"1"},
+    {"sports_name":"Basketball", "sports_id":"2"},
+    {"sports_name":"Cricket", "sports_id":"3"},
+    {"sports_name":"Voleyball", "sports_id":"4"},
+    {"sports_name":"Hockey", "sports_id":"5"}
+]
